@@ -1,0 +1,11 @@
+type,id,name,stationDHID
+stop,900037168,"Berlin, Albrechtshof Bhf",de:11000:900037168
+stop,900029305,"Berlin, Staaken Bhf",de:11000:900029305
+stop,900180008,Bahnhofstr./Lindenstr. (Berlin),de:11000:900180008
+stop,900180009,Bahnhofstr./Seelenbinderstr. (Berlin),de:11000:900180009
+stop,900170011,Barnimplatz (Berlin),de:11000:900170011
+stop,900170010,Betriebshof Marzahn (Berlin),de:11000:900170010
+stop,900170524,Brodowiner Ring (Berlin),de:11000:900170524
+stop,900171517,Boschpoler Str. (Berlin),de:11000:900171517
+stop,900100041,Brunnenstr./Invalidenstr. (Berlin),de:11000:900100041
+stop,900140506,Behaimstr. (Berlin),de:11000:900140506
